@@ -1,0 +1,9 @@
+.vscode/
+master.key
+.env
+.history/
+.idea/
+.coverage
+htmlcov/
+__pycache__/
+node_modules
